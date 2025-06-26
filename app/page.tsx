@@ -8,7 +8,7 @@ export default function Home() {
   return (
     <>
       {/* <TermsAndConditions /> */}
-      {/* <PolicyNav /> */}
+      <PolicyNav />
       {/* <PrivacyPolicy /> */}
       <CareerPage />
     </>
